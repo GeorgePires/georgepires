@@ -1,11 +1,10 @@
 ### Olá, Eu sou o George 😊
 ##
 
- <
  <div>
-  <a href="https://github.com/georgepires">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=georgepires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgepires&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/GeorgePires">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GeorgePires&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePires&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
  
