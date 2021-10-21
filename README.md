@@ -3,7 +3,7 @@
 
 - ✅ &nbsp; Iniciando  carreira como dev.
 - 📚 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
-- 🚀 &nbsp; Aprendendo mais sobre **Javascript**.
+- 🚀 &nbsp; Aprendendo mais sobre **Ruby**.
  --- 
  
   <div>
