@@ -1,9 +1,8 @@
 ### Olá, Eu sou o George 😊
 ## 
 
-- ✅ &nbsp; Iniciando  carreira como dev.
-- 📚 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
-- 🚀 &nbsp; Aprendendo mais sobre **Ruby**.
+- 📚 &nbsp; Cursando o 3º período de **Análise e Desenvolvimento de Sistemas** <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
+- 🚀 &nbsp; Atualmente focado em **Ruby**, **Ruby on Rails**, **JavaScript e CSS/HTML**
  --- 
  
   <div>
