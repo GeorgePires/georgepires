@@ -4,6 +4,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o George</h1>
 <br>
 
+- Sou Desenvolvedor Junior e Mestre Pokémon 😊✨
 - 📚 Cursando o 4º período de **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
 - 🚀 Atualmente focado em **Ruby**, **Ruby on Rails**, **JavaScript e CSS/HTML**
  
