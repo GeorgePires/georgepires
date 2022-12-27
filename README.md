@@ -1,22 +1,22 @@
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2442&height=140&section=header"/>
 
- 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o George</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=30&center=true&vCenter=true&width=1000&lines=Oi!,+Me+Chamo+George+Pires;Tenho+23+anos;Sou+de+Teresina+-+PI;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+
 <br>
 
-- Sou Desenvolvedor Junior e Mestre Pokémon 😊✨
+- Sou Desenvolvedor Junior e Mestre Pokémon.
 - 📚 Cursando o 4º período de **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
-- 🚀 Atualmente focado em **Ruby**, **Ruby on Rails**, **JavaScript, CSS/HTML e TDD - RSpec**
+- 🚀 Atualmente focado em **Ruby**, **Ruby on Rails**, **JavaScript, CSS/HTML e TDD - RSpec**.
  
- #
+ <br>
   <div align="center">
     <a href="https://github.com/GeorgePires">
-      <img height="180em"
+      <img height="195px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePires&layout=compact&langs_count=7&theme=nightowl&hide_border=true" />
-      <img height="180em"
+      <img height="195px"
       src="https://github-readme-stats.vercel.app/api?username=GeorgePires&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
   </div>
-<br>
+ 
 
   ## :speech_balloon: Contatos
    Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
@@ -44,8 +44,8 @@
           target="_blank"/></a>
     </div>
 
-  
-  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2442&height=120&section=footer"/>
+ 
  ---
  
   
