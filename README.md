@@ -11,9 +11,9 @@
  <br>
   <div align="center">
     <a href="https://github.com/GeorgePires">
-      <img height="195px"
+      <img height="185em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePires&layout=compact&langs_count=7&theme=nightowl&hide_border=true" />
-      <img height="195px"
+      <img height="185em"
       src="https://github-readme-stats.vercel.app/api?username=GeorgePires&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
   </div>
  
