@@ -5,7 +5,7 @@
 <br>
 
 - Sou Desenvolvedor Junior e Mestre Pokémon.
-- 📚 Cursando o 4º período de **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
+- 📚 Cursando o 5º período de **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
 - 🚀 Atualmente focado em **Ruby**, **Ruby on Rails**, **JavaScript, CSS/HTML e TDD - RSpec**.
  
  <br>
