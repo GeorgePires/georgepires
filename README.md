@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2442&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=30&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo!;+Me+Chamo+George+Pires;Tenho+23+anos;Sou+de+Teresina+-+PI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=30&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+George+Pires;23+years+old,Brazil)](https://git.io/typing-svg)
 
 <br>
 
-- Sou Desenvolvedor Junior e Mestre Pokémon.
-- 📚 Cursando o 5º período de **Análise e Desenvolvimento de Sistemas** na <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>.
-- 🚀 Atualmente focado em **Ruby**, **Ruby on Rails**, **JavaScript, CSS/HTML e TDD - RSpec**.
+- 🤓 I'm a Junior Ruby Developer
+- 📚 Attending **Systems Analysis and Development** at <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>
+- 🚀 Currently focused on **Ruby**, **Ruby on Rails**, **JavaScript**, **CSS/HTML and TDD - RSpec**
  
  <br>
   <div align="center">
@@ -18,8 +18,8 @@
   </div>
  
 
-  ## :speech_balloon: Contatos
-   Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
+  ## :speech_balloon: Contacts
+   You can find me on any of my social media below!
    
   <div align="center">
       <a href="https://www.instagram.com/acld.sa" target="_blank">
