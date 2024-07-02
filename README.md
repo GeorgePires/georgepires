@@ -4,9 +4,11 @@
 
 <br>
 
-- 🤓 I'm a Junior Ruby Developer
-- 📚 Graduated in **Systems Analysis and Development** at <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>
-- 🚀 Currently focused on **Ruby**, **Ruby on Rails**, **Hotwire**, **Stimulus Components and TDD - RSpec**
+<!-- 
+ - 🤓 I'm a Junior Ruby Developer
+ - 📚 Graduated in **Systems Analysis and Development** at <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>
+ - 🚀 Currently focused on **Ruby**, **Ruby on Rails**, **Hotwire**, **Stimulus Components and TDD - RSpec**
+ -->
  
  <br>
   <div align="center">
