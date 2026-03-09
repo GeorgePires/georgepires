@@ -9,7 +9,7 @@
  - 🤓 I'm a Junior Ruby Developer
  - 📚 Graduated in **Systems Analysis and Development** at <a href="https://www.wyden.com.br/unifacid">UNIFACID</a>
  - 🚀 Currently focused on **Ruby**, **Ruby on Rails**, **Hotwire**, **Stimulus Components and TDD - RSpec**
- -->
+
 
   ## :speech_balloon: Contacts
    You can find me on any of my social media below!
@@ -38,7 +38,7 @@
     </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2442&height=120&section=footer"/>
- 
+ -->
  ---
  
   
